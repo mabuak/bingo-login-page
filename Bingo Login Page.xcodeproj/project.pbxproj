@@ -13,6 +13,8 @@
 		258BBB9B2132547100D844B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 258BBB9A2132547100D844B1 /* Assets.xcassets */; };
 		258BBB9E2132547100D844B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 258BBB9C2132547100D844B1 /* LaunchScreen.storyboard */; };
 		258BBBA82132643300D844B1 /* RoundedBorderButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258BBBA72132643300D844B1 /* RoundedBorderButton.swift */; };
+		258BBBAA2132672400D844B1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 258BBBA92132672400D844B1 /* README.md */; };
+		258BBBAE2132682900D844B1 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 258BBBAD2132682900D844B1 /* screenshot.png */; };
 		3D96D25911937EE58362609C /* Pods_Bingo_Login_Page.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7EECA2B7CC1605B51892DA25 /* Pods_Bingo_Login_Page.framework */; };
 /* End PBXBuildFile section */
 
@@ -26,6 +28,8 @@
 		258BBB9D2132547100D844B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		258BBB9F2132547100D844B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		258BBBA72132643300D844B1 /* RoundedBorderButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedBorderButton.swift; sourceTree = "<group>"; };
+		258BBBA92132672400D844B1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		258BBBAD2132682900D844B1 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 		7EECA2B7CC1605B51892DA25 /* Pods_Bingo_Login_Page.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Bingo_Login_Page.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD3635FCAE6BC86BE1D130E3 /* Pods-Bingo Login Page.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Bingo Login Page.release.xcconfig"; path = "Pods/Target Support Files/Pods-Bingo Login Page/Pods-Bingo Login Page.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -45,6 +49,8 @@
 		258BBB872132546E00D844B1 = {
 			isa = PBXGroup;
 			children = (
+				258BBBAD2132682900D844B1 /* screenshot.png */,
+				258BBBA92132672400D844B1 /* README.md */,
 				258BBB922132546F00D844B1 /* Bingo Login Page */,
 				258BBB912132546F00D844B1 /* Products */,
 				398A7A5D4B84B49CFBD4A1EE /* Pods */,
@@ -153,7 +159,9 @@
 			files = (
 				258BBB9E2132547100D844B1 /* LaunchScreen.storyboard in Resources */,
 				258BBB9B2132547100D844B1 /* Assets.xcassets in Resources */,
+				258BBBAA2132672400D844B1 /* README.md in Resources */,
 				258BBB992132546F00D844B1 /* Main.storyboard in Resources */,
+				258BBBAE2132682900D844B1 /* screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
